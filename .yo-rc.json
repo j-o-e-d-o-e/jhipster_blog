@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "net.joedoe"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "net.joedoe",
+    "packageFolder": "net/joedoe",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTkwNTlhZThhZGRiY2QwODg5ODc4ODhmZTY0ZWYzYjBlM2ZlODdiMWZkODUzOGNjZmYxNzBiNmZjZWM0OWE5YWU1YTViMTkxZTRmYmI0MGM4ZmMyZmM2YTZiZTRlYWQ1Mzg0OGM3ZmZlNDAyZjBiY2Y2ZTcwNTg3NWY4OTUxZmE=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
